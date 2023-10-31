@@ -1,5 +1,5 @@
 # Reforzamiento Inforcap Ruby on Rails - Proyecto InforcapHouse
-
+https://dbdiagram.io/d/RealState-654150447d8bbd6465393b83
 Este proyecto hace parte de un reforzamiento dado a los estudiantes de Inforcap, es una guía paso a paso para crear proyectos tipo MVP (Producto Mínimo Viable) haciendo uso del framework Ruby on Rails. El objetivo principal es repasar los conceptos básicos del framework, hacer uso de las mejores prácticas y crear un producto mínimo viable.
 
 Realizaremos el sitio web de una empresa dedicada a catalogar inmuebles para su compra y venta, donde se pueden visualizar los inmuebles y los usuarios pueden dejar sus reseñas
